@@ -3,6 +3,7 @@ example of:
 - json request body
 - params
 - response schemas
+![alt text](asset.png "Example")
 
 ## run using docker
 1. build image ```docker build -t rust-api .```
