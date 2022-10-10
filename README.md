@@ -22,3 +22,4 @@ curl -X 'POST' \
 ## run using cargo
 1. run ```cargo build --release```
 2. execute app ```./target/release/ner```
+3. open your browser ```http://localhost:8080/swagger-ui/```
